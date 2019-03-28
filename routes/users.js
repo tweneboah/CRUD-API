@@ -1,7 +1,7 @@
 const express = require('express');
 
 const router = new  express.Router()
-const User = require('../src/model/users')
+const User  = require('../src/model/users')
 
 
 //Creating user/POST
